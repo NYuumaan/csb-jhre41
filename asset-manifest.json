@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://nyuumaan.github.io/csb-jhre41/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://nyuumaan.github.io/csb-jhre41/static/js/main.0863e2f9.chunk.js",
+    "main.js.map": "https://nyuumaan.github.io/csb-jhre41/static/js/main.0863e2f9.chunk.js.map",
+    "runtime-main.js": "https://nyuumaan.github.io/csb-jhre41/static/js/runtime-main.eaf1c4f3.js",
+    "runtime-main.js.map": "https://nyuumaan.github.io/csb-jhre41/static/js/runtime-main.eaf1c4f3.js.map",
+    "static/js/2.33f0bf01.chunk.js": "https://nyuumaan.github.io/csb-jhre41/static/js/2.33f0bf01.chunk.js",
+    "static/js/2.33f0bf01.chunk.js.map": "https://nyuumaan.github.io/csb-jhre41/static/js/2.33f0bf01.chunk.js.map",
+    "index.html": "https://nyuumaan.github.io/csb-jhre41/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://nyuumaan.github.io/csb-jhre41/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.33f0bf01.chunk.js.LICENSE.txt": "https://nyuumaan.github.io/csb-jhre41/static/js/2.33f0bf01.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.eaf1c4f3.js",
+    "static/js/2.33f0bf01.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.0863e2f9.chunk.js"
+  ]
+}
